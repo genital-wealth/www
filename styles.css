@@ -4138,3 +4138,12 @@ html {
       line-height: 38px;
     }
   }
+
+  #ca{
+    font-weight: bold;
+  }
+
+  #ticker{
+    font-size: 3vw;
+    text-transform: uppercase;
+  }
